@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 class SshController extends Controller
 {
-    public function sshFromGitLaravel2()
+    public function sshFromGitLaravel()
     {
         return '';
     }
